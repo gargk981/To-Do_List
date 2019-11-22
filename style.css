@@ -1,0 +1,50 @@
+body {
+  background-image: url('i2.jpg');
+  background-size:cover;
+}
+input[type=text] {
+  width: 25%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  background-color: mistyrose;
+}
+h1{
+  font-size: 30px;
+  font-style: italic;
+  font-family: algerian;
+  color:goldenrod;
+}
+#b1{
+  background-color: green;
+  color:white;
+  border-radius:8px;
+  padding: 13px 22px;
+  font-size:15px;
+}
+#b1:hover{
+  background-color: sienna;
+  padding: 15px 25px;
+  font-size:18px;
+  color:silver;
+}
+ul{
+  list-style-type: none;
+}
+#b2{
+  background-color: firebrick;
+  color:black;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size:15px;
+  margin-left: 30px;
+}
+#l1{
+  font-size:30px;
+  font-family: gopher;
+  color:white;
+}
+#t1{
+  font-size: 18px;
+  font-style: italic;
+  font-family: sans-serif;
+}
